@@ -1,0 +1,50 @@
+What does the keyword "val" mean?
+read-only
+mutable
+singleton
+doesn't exist
+What the next term creates: 10 to "apple"
+pair<Int,String>
+ERROR
+10 .. "apple"
+Int,String
+How long will the interval go from: 1 until 10
+9
+1
+8
+10
+Is it possible to modify an object stored in val?
+yes
+no
+maybe
+kotlin has no objects
+Which type does length variable below have: val length = string?.length?
+Int?
+String?
+Unit?
+Double?
+What will be printed for{ch in "abc") { print(ch+1) }
+bcd
+bc
+b
+ERROR
+What does the keyword "object" mean?
+singleton
+enum
+simple class
+abstract class
+What is the term "init" in a constructor?
+constructor body, initialization
+static members are set up here
+the constructor is private
+does not belong to the constructor
+What is the difference between listOf() and mutableListOf() functions?
+listOf() create an immutable list and other create a mutable
+there is no difference
+kotlin has only listOf() function
+kotlin has only mutableListOf() function
+What does the associateBy() function do?
+group by a field but duplicates are removed
+group by a field
+merge two lists by a criterion
+doesn't exist
